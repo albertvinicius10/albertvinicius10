@@ -45,6 +45,26 @@ Aqui estão alguns dos projetos em que trabalhei:
  Tech Stack e habilidades: Jogo implementado em HTML, CSS e Javascript e o backend do site
  implementado em NODE.JS utilizando o framework ExpressJs e a parte frontend utilizando o
  template engine Handlebars, bootstrap e SASS.
+
+
+***Projeto MongoDB com Python***
+Projeto que utiliza o MongoDB em um ambiente Docker com réplicas, e um script Python para inserção de dados.
+O projeto é composto por quatro serviços Docker, definidos no arquivo docker-compose.yml:
+
+mongo1, mongo2, mongo3: São os três nós do conjunto de réplicas do MongoDB. Cada um deles usa a imagem mongo:7.0.9 e possui seu próprio volume para persistência de dados.
+python: Este é o serviço que executa o script Python. Ele usa a imagem python:3.12 e tem acesso aos scripts Python e ao arquivo de configuração do conjunto de réplicas.
+O script Python se conecta ao conjunto de réplicas do MongoDB e insere dados nele. Ele lê um arquivo de dados comprimido, amazon-meta.txt.gz, e insere cada produto no banco de dados, a menos que o produto esteja descontinuado.
+
+Configuração do conjunto de réplicas
+A configuração do conjunto de réplicas é definida no arquivo config.json. Ele especifica o ID do conjunto de réplicas e os hosts de cada membro.
+
+Dados inseridos
+O script Python insere produtos no banco de dados. Cada produto tem um ID, um ASIN, um título, um grupo, um ranking de vendas, produtos similares, categorias e avaliações.
+
+Tempo de execução
+O script Python registra o tempo que leva para inserir todos os produtos e imprime a duração no console, juntamente com a contagem de produtos inseridos.
+
+ 
 ## 🌐 Redes Sociais
 
 - LinkedIn: [Albert Vinicius](https://www.linkedin.com/in/albertvinicius/)
