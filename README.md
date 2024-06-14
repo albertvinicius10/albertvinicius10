@@ -48,6 +48,7 @@ Aqui estão alguns dos projetos em que trabalhei:
 
 
 ***Projeto MongoDB com Python***
+
 Projeto que utiliza o MongoDB em um ambiente Docker com réplicas, e um script Python para inserção de dados.
 O projeto é composto por quatro serviços Docker, definidos no arquivo docker-compose.yml:
 
