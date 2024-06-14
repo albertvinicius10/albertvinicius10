@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por Python, com experiência em trabalhar com Dj
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens**: Python, JavaScript, C, PHP, JAVA 
-- **Frameworks/Bibliotecas**: Django, Express.js, FastAPI, Bootstrap, SpringBoot
+- **Frameworks/Bibliotecas**: Django, SpringBoot, Express.js, FastAPI, Bootstrap
 - **Banco de Dados**: MySQL, PostgreSQL,MongoDB
 - **Ferramentas**: Git, Docker
 
