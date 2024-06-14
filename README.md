@@ -42,7 +42,7 @@ Aqui estão alguns dos projetos em que trabalhei:
  template engine Handlebars, bootstrap e SASS.
 ## 🌐 Redes Sociais
 
-- LinkedIn: Albert Vinicius
+- LinkedIn: [Albert Vinicius](https://www.linkedin.com/in/albertvinicius/)
 - Email: albertvinicius10@gmail.com
 
 
