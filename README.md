@@ -65,6 +65,11 @@ O script Python insere produtos no banco de dados. Cada produto tem um ID, um AS
 Tempo de execução
 O script Python registra o tempo que leva para inserir todos os produtos e imprime a duração no console, juntamente com a contagem de produtos inseridos.
 
+***Projeto de Criação de Site hospedado na AWS e servidor de CS2***
+A single modded Counter-Strike 2 (CS2) Modded Dedicated Server that you can change the active mod on the server from chat or server console. Maps are preconfigured per game mode and change when the game mode changes.
+https://github.com/albertvinicius10/cs-server
+https://github.com/albertvinicius10/csplayskins
+
  
 ## 🌐 Redes Sociais
 
