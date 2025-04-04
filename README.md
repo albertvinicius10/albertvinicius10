@@ -13,6 +13,44 @@ Sou um desenvolvedor apaixonado por Python, com experiência em trabalhar com Dj
 
 Aqui estão alguns dos projetos em que trabalhei:
 
+
+# 📱 Projeto Flutter – Visualização Financeira Interativa
+
+Este é um aplicativo Flutter desenvolvido para **visualização e análise de dados financeiros**, focado em oferecer uma experiência interativa, responsiva e intuitiva. O app permite a navegação hierárquica dos resultados, comparação mensal e detalhamento de lançamentos, consumindo dados de APIs externas com autenticação segura.
+
+## 🔹 Funcionalidades Principais
+
+- 🔐 Autenticação via API REST com controle de sessão.
+- 📊 Visualização de **resultados financeiros por mês**, organizados em:
+  - Totais ➜ Subtotais ➜ Contas
+- 📅 **Comparativo mensal** com rolagem horizontal e seleção dinâmica de meses.
+- 📂 Detalhamento de **lançamentos por conta e período** com navegação contextual.
+- 🧮 Suporte a dados **planejados e realizados**, com lógica de exibição inteligente.
+- 🎨 Estilização condicional baseada em regras de negócio (ex: cores por tipo de resultado).
+
+## 🧱 Organização do Projeto
+
+- `components/`: Widgets reutilizáveis e modulares.
+- `constants/`: Definições fixas e listas auxiliares.
+- `models/`: Modelos de dados (DTOs).
+- `screens/`: Telas principais com navegação integrada.
+- `services/`: Camada de consumo de APIs REST.
+- `utils/`: Funções utilitárias e auxiliares.
+
+## 🛠️ Tecnologias Utilizadas
+
+- Flutter + Dart
+- API REST com autenticação
+- Navegação dinâmica com base em parâmetros
+- Responsividade com rolagem horizontal sincronizada
+- Arquitetura escalável baseada em separação de responsabilidades
+
+---
+
+> Projeto desenvolvido com foco em boas práticas, reutilização de componentes e escalabilidade para expansão futura.
+
+
+
 ***Ticket Helpdesk***
    
  github.com/albertvinicius10/ticket
@@ -69,6 +107,8 @@ O script Python registra o tempo que leva para inserir todos os produtos e impri
 A single modded Counter-Strike 2 (CS2) Modded Dedicated Server that you can change the active mod on the server from chat or server console. Maps are preconfigured per game mode and change when the game mode changes.
 https://github.com/albertvinicius10/cs-server
 https://github.com/albertvinicius10/csplayskins
+
+
 
  
 ## 🌐 Redes Sociais
