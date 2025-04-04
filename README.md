@@ -33,13 +33,13 @@ Este é um aplicativo Flutter desenvolvido para **visualização e análise de d
 ### 📸 Demonstrações do App
 
 #### Tela de Resultados
-![Resultados](https://chat.openai.com/share/5a11b23d-3e00-4c56-9398-c5d3a946f47b)
+![Resultados](https://dashboards-ag.agconsultoria.online/media/app_3.jpeg)
 
 #### Comparativo entre Meses
-![Comparativo](https://chat.openai.com/share/51c6e106-cb34-4201-a0aa-f5d6bd6241be)
+![Comparativo](https://dashboards-ag.agconsultoria.online/media/app_2.jpeg)
 
 #### Detalhamento Expandido
-![Detalhes](https://chat.openai.com/share/c6cb2585-1c15-4389-98cf-9d3b3f18ebdf)
+![Detalhes](https://dashboards-ag.agconsultoria.online/media/app_1.jpeg)
 
 ## 🧱 Organização do Projeto
 
