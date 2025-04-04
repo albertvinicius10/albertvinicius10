@@ -1,12 +1,12 @@
 # Olá, sou Albert Vinicius 👋
 
-Sou um desenvolvedor apaixonado por Python, com experiência em trabalhar com Django, Express. Adoro resolver problemas complexos e criar soluções eficientes e escaláveis.
+Sou um desenvolvedor apaixonado por Python, com experiência em trabalhar com Django, Express e Flutter. Adoro resolver problemas complexos e criar soluções eficientes e escaláveis.
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens**: Python, JavaScript, C, PHP, JAVA 
-- **Frameworks/Bibliotecas**: Django, SpringBoot, Express.js, FastAPI, Bootstrap
-- **Banco de Dados**: MySQL, PostgreSQL,MongoDB
+- **Linguagens**: Python, JavaScript, C, PHP, JAVA, Dart
+- **Frameworks/Bibliotecas**: Django, Flutter, SpringBoot, Express.js, FastAPI, Bootstrap
+- **Banco de Dados**: MySQL, PostgreSQL,MongoDB, Oracle
 - **Ferramentas**: Git, Docker
 
 ## 📚 Projetos
@@ -32,14 +32,11 @@ Este é um aplicativo Flutter desenvolvido para **visualização e análise de d
 
 ### 📸 Demonstrações do App
 
-#### Tela de Resultados
-![Resultados](https://dashboards-ag.agconsultoria.online/media/app_3.jpeg)
-
-#### Comparativo entre Meses
-![Comparativo](https://dashboards-ag.agconsultoria.online/media/app_2.jpeg)
-
-#### Detalhamento Expandido
-![Detalhes](https://dashboards-ag.agconsultoria.online/media/app_1.jpeg)
+<p align="center">
+  <img src="https://dashboards-ag.agconsultoria.online/media/app_3.jpeg" width="200"/>
+  <img src="https://dashboards-ag.agconsultoria.online/media/app_2.jpeg" width="200"/>
+  <img src="https://dashboards-ag.agconsultoria.online/media/app_1.jpeg" width="200"/>
+</p>
 
 ## 🧱 Organização do Projeto
 
