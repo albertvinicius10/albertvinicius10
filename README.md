@@ -30,6 +30,17 @@ Este é um aplicativo Flutter desenvolvido para **visualização e análise de d
 - 🧮 Suporte a dados **planejados e realizados**, com lógica de exibição inteligente.
 - 🎨 Estilização condicional baseada em regras de negócio (ex: cores por tipo de resultado).
 
+### 📸 Demonstrações do App
+
+#### Tela de Resultados
+![Resultados](https://chat.openai.com/share/5a11b23d-3e00-4c56-9398-c5d3a946f47b)
+
+#### Comparativo entre Meses
+![Comparativo](https://chat.openai.com/share/51c6e106-cb34-4201-a0aa-f5d6bd6241be)
+
+#### Detalhamento Expandido
+![Detalhes](https://chat.openai.com/share/c6cb2585-1c15-4389-98cf-9d3b3f18ebdf)
+
 ## 🧱 Organização do Projeto
 
 - `components/`: Widgets reutilizáveis e modulares.
