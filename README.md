@@ -16,6 +16,8 @@ Aqui estão alguns dos projetos em que trabalhei:
 
 # 📱 Projeto Flutter – Visualização Financeira Interativa
 
+2025
+
 Este é um aplicativo Flutter desenvolvido para **visualização e análise de dados financeiros**, focado em oferecer uma experiência interativa, responsiva e intuitiva. O app permite a navegação hierárquica dos resultados, comparação mensal e detalhamento de lançamentos, consumindo dados de APIs externas com autenticação segura.
 
 ## 🔹 Funcionalidades Principais
