@@ -9,6 +9,8 @@ Sou um desenvolvedor apaixonado por Python, com experiência em trabalhar com Dj
 - **Banco de Dados**: MySQL, PostgreSQL,MongoDB, Oracle
 - **Ferramentas**: Git, Docker
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertvinicius10&hide_progress=true)
+
 ## 📚 Projetos
 
 Aqui estão alguns dos projetos em que trabalhei:
