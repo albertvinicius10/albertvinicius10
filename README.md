@@ -1,27 +1,32 @@
 # Olá, sou Albert Vinicius 👋
 
-Sou um desenvolvedor apaixonado por Python, com experiência em trabalhar com Django, Express e Flutter. Adoro resolver problemas complexos e criar soluções eficientes e escaláveis.
+Sou um desenvolvedor de software, com experiência em trabalhar com Django, Express e Flutter. Adoro resolver problemas complexos e criar soluções eficientes e escaláveis.
+
 ## 🚀 Tecnologias que eu uso:
 
 <div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
 </div>
 
 ## 📱 Onde me encontrar:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertvinicius)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/albertvinicius)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/albertvinicius)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertvinicius)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertvinicius10&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertvinicius10&show_icons=true&theme=radical)
 
 ## 🛠️ Habilidades Técnicas
 
@@ -56,9 +61,9 @@ Este é um aplicativo Flutter desenvolvido para **visualização e análise de d
 ### 📸 Demonstrações do App
 
 <p align="center">
-  <img src="https://dashboards-ag.agconsultoria.online/media/app_3.jpeg" width="200"/>
-  <img src="https://dashboards-ag.agconsultoria.online/media/app_2.jpeg" width="200"/>
-  <img src="https://dashboards-ag.agconsultoria.online/media/app_1.jpeg" width="200"/>
+  <img src="https://dashboards-ag.agconsultoria.online/media/app_3.jpeg" width="100"/>
+  <img src="https://dashboards-ag.agconsultoria.online/media/app_2.jpeg" width="100"/>
+  <img src="https://dashboards-ag.agconsultoria.online/media/app_1.jpeg" width="100"/>
 </p>
 
 ## 🧱 Organização do Projeto
